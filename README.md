@@ -9,16 +9,18 @@ A CSE student learning by doing — building, breaking, and fixing things one co
 ## About me
 I'm a Computer Science & Engineering student who learns best by building real stuff. I enjoy turning ideas into small projects, exploring new tech stacks, and improving my code with every iteration.
 
-- 🔭 Currently building: small web apps, CLI tools, and automation scripts
-- 🌱 Learning: Systems programming, web development, and DevOps practices
-- ⚡ Fun fact: I prefer learning by doing — experiments > tutorials
+---
+
+- 🌱 Learning: Systems programming, web3.0 development, and DevOps practices
+- ⚡ Fun fact: I prefer learning by doing — experiments 
 
 ---
 
 ## Skills & Tools
-- Languages: C, C++, Python, JavaScript (Node.js), HTML/CSS
-- Tools & Tech: Git, Docker, Linux, VS Code, REST APIs
-- Learning: Kubernetes, CI/CD, Rust (exploring)
+- Languages: C, C++, Python, JavaScript (Node.js), HTML/CSS ,Rust
+- Tools & Tech: Git, Docker, Linux, VS Code, REST APIs, Antigravity, Figma
+- Learning: Kubernetes, CI/CD, Rust (exploring), Pennetration Testing
+- 
 
 ---
 
@@ -27,18 +29,19 @@ I'm a Computer Science & Engineering student who learns best by building real st
 I follow a loop: pick a goal → prototype quickly → break it intentionally → read docs & debug → iterate.
 This keeps ideas small and feedback fast.
 
+
 My favorite resources:
 - Official docs and RFCs
 - Community tutorials and small open-source projects
 - Debugging and reading other people's code
+- Google Database and search Engine
 
 ---
 
 
 ## Get in touch
 - GitHub: https://github.com/McMonds
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: mcmonds102@gmail.com
 
 
 ---
